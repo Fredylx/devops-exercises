@@ -1,4 +1,10 @@
 #!/usr/bin/env python
+'''
+lb - lower bound
+ub - upper bound
+
+------------------------ Binary Search --------------------
+'''
 
 import random
 from typing import List
